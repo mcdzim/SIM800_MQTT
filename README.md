@@ -1,4 +1,6 @@
-# SIM800_MQTT
+# SMART home GSM and MQTT using arduinos
+
+Based off the SIM800_MQTT repo by elementzonline
 
 #AutoConnect CallBack function
 * Use this function if you want to use autoconnect(and auto reconnect) facility
